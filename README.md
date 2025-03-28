@@ -1,5 +1,4 @@
-# Maslach Burnout Inventory
-# Cybersecurity Edition (MBI-CS)
+# Maslach Burnout Inventory - Cybersecurity Edition (MBI-CS)
 
 This repository contains materials related to the **Maslach Burnout Inventory – Cybersecurity Edition (MBI-CS)**. The content is designed to assist cybersecurity professionals and organizations in assessing, managing, and mitigating burnout risks within their workforce.
 

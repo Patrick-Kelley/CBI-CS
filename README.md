@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/Patrick-Kelley/CBI-CS/blob/main/CBI-CS.png?raw=true" alt="CBI-CS Logo" width="300">
+  <img src="https://github.com/Patrick-Kelley/CBI-CS/blob/main/CBI-CS.png?raw=true" alt="CBI-CS Logo">
 </p>
+
 Cybersecurity Burnout Inventory - Cybersecurity Edition (CBI-CS)
 ================================================================
 

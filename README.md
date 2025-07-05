@@ -1,63 +1,88 @@
-# Maslach Burnout Inventory - Cybersecurity Edition (MBI-CS)
+Cybersecurity Burnout Inventory - Cybersecurity Edition (CBI-CS)
+================================================================
 
-This repository contains materials related to the **Maslach Burnout Inventory – Cybersecurity Edition (MBI-CS)**. The content is designed to assist cybersecurity professionals and organizations in assessing, managing, and mitigating burnout risks within their workforce.
+This repository contains materials related to the **Cybersecurity Burnout Inventory – Cybersecurity Edition (CBI-CS)**. The content is designed to assist cybersecurity professionals and organizations in assessing, managing, and mitigating burnout risks within their workforce.
 
-## 📚 Repository Contents
+Why We Transitioned
+-------------------
 
-- **`Burnout_Cost_Calculator.xlsx`** – Excel-based tool to calculate the potential cost of burnout.
-- **`Instruction Package for Administering the Maslach Burnout Inventory.docx`** – Detailed instructions on how to administer the MBI-CS.
-- **`MBI-CS Training.docx`** – Training guide to assist with understanding and utilizing the MBI-CS effectively.
-- **`MBI-CS_Burnout_Calculator.xlsx`** – Additional version of the burnout cost calculator for comparative analysis.
-- **`Maslach Burnout Inventory – Cybersecurity Edition (MBI-CS).docx`** – The core document describing the MBI-CS methodology.
+The Maslach Burnout Inventory (MBI) requires a paid license for use in training, distribution, and modification. To remain compliant while supporting the cybersecurity community, we have transitioned to the open-access Copenhagen Burnout Inventory (CBI), creating the CBI-CS.
 
----
+What is the Copenhagen Burnout Inventory?
+-----------------------------------------
 
-## 📄 Purpose
+The CBI measures burnout across:
 
-The **MBI-CS** helps cybersecurity leaders and organizations:
+*   **Personal Burnout**
+    
+*   **Work-Related Burnout**
+    
+*   **Client-Related Burnout** (adapted here for stakeholder and end-user interactions in cybersecurity)
+    
 
-- Identify burnout trends among cybersecurity professionals.
-- Quantify the financial cost of burnout to the organization.
-- Develop intervention strategies to improve workforce well-being.
+It uses a 19-item questionnaire, is license-free, and aligns with research-backed burnout assessments.
 
----
+Repository Contents
+-------------------
 
-## 🚀 Getting Started
+*   **CBI-CS\_Burnout\_Calculator.xlsx** – Tool to calculate the potential cost of burnout.
+    
+*   **CBI-CS\_Questionnaire.docx** – Questionnaire for assessment.
+    
+*   **CBI-CS\_Training\_Guide.docx** – Guide for training leaders and HR.
+    
+*   **Instruction Package for Administering CBI-CS.docx** – Instructions for accurate administration.
+    
+
+Purpose
+-------
+
+The CBI-CS helps cybersecurity leaders and organizations:
+
+*   Identify burnout trends among cybersecurity professionals.
+    
+*   Quantify the financial cost of burnout to the organization.
+    
+*   Develop intervention strategies to improve workforce well-being.
+    
+
+Getting Started
+---------------
 
 ### Prerequisites
-To effectively use the tools provided in this repository, you will need:
 
-- **Microsoft Excel** for utilizing the Burnout Cost Calculators.
-- A word processing application (such as Microsoft Word) to review the documentation and training materials.
+*   Microsoft Excel for using the Burnout Calculator.
+    
+*   A word processor (Word or similar) to review the documentation and training materials.
+    
 
 ### Usage
 
-1. **Administer the MBI-CS:**
-   - Refer to the **Instruction Package** to ensure accurate administration.
-2. **Analyze Results:**
-   - Use the **Burnout_Cost_Calculator.xlsx** to determine the impact of burnout on your team.
-3. **Conduct Training:**
-   - Follow the steps outlined in **MBI-CS Training.docx** to educate leaders and employees on identifying burnout factors.
+#### Administer
 
----
+Use the CBI-CS\_Questionnaire.docx to collect responses, clarifying it is for well-being support.
 
-## 🎯 Target Audience
+#### Analyze Results
 
-This repository is intended for:
+Use CBI-CS\_Burnout\_Calculator.xlsx to compute and visualize burnout trends.
 
-- **CISOs and Security Leaders:** To assess and mitigate burnout in their teams.
-- **HR Professionals:** To develop support frameworks for high-stress environments.
-- **Mental Health Advocates in Cybersecurity:** To create a healthier and more sustainable workplace.
+#### Conduct Training
 
----
+Use CBI-CS\_Training\_Guide.docx to train leaders and HR to recognize and address burnout.
 
-## 📢 Contributing
+Target Audience
+---------------
 
-If you would like to contribute to this project or provide feedback, please submit a pull request or reach out directly.
+*   CISOs and Security Leaders: To assess and mitigate burnout in their teams.
+    
+*   HR Professionals: To develop support frameworks for high-stress environments.
+    
+*   Mental Health Advocates in Cybersecurity: To create a healthier, sustainable workplace.
+    
 
----
+Attribution
+-----------
 
-## 📝 License
+The Copenhagen Burnout Inventory was developed by Kristensen et al., 2005, and is freely available for use and adaptation with acknowledgment.
 
-This project is licensed under the terms described in the repository.
-
+This update replaces the previous MBI-CS references, ensuring you can continue your mission of supporting cybersecurity professionals without licensing concerns.

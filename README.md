@@ -2,10 +2,10 @@
   <img src="https://github.com/Patrick-Kelley/CBI-CS/blob/main/CBI-CS.png?raw=true" alt="CBI-CS Logo" width="400">
 </p>
 
-Cybersecurity Burnout Inventory - Cybersecurity Edition (CBI-CS)
+Copenhagen Burnout Inventory – Cybersecurity Edition (CBI-CS)
 ================================================================
 
-This repository contains materials related to the **Cybersecurity Burnout Inventory – Cybersecurity Edition (CBI-CS)**. The content is designed to assist cybersecurity professionals and organizations in assessing, managing, and mitigating burnout risks within their workforce.
+This repository contains materials related to the **Copenhagen Burnout Inventory – Cybersecurity Edition (CBI-CS)**. The content is designed to assist cybersecurity professionals and organizations in assessing, managing, and mitigating burnout risks within their workforce.
 
 Why We Transitioned
 -------------------
